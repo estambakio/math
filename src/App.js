@@ -99,9 +99,9 @@ function App() {
 
         <div class="pricing-header p-3 pb-md-4 mx-auto text-center">
           <h1 class="display-4 fw-normal">Устный счет</h1>
-          {/* <p class="fs-5 text-muted">
-
-          </p> */}
+          <p class="fs-5 text-muted">
+            Деление целых чисел без остатка
+          </p>
         </div>
       </header>
 
